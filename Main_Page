@@ -66,5 +66,44 @@
 
         </ul>
 
+        <!--Second Section-->
+
+        <h2 id="section2">2. Core Components of a Power System</h2>
+
+        <p>For a system to feel "real" to the
+            reader, it usually includes these four elements:</p>
+
+        <table border="1">
+            <tr>
+                <th>Component</th>
+                <th>Description</th>
+                <th>Example</th>
+            </tr>
+
+            <tr>
+                <td><b>Source</b></td>
+                <td>Where the energy comes from.</td>
+                <td>Mana, Qi, Sunlight, Radiation, Genetic Mutation.</td>
+            </tr>
+
+            <tr>
+                <td><b>Method</b></td>
+                <td>How the power is channeled.</td>
+                <td>Spells, Martial Arts, Technology, Hand Signs.</td>
+            </tr>
+
+            <tr>
+                <td><b>Cost</b></td>
+                <td>The price of using the power.</td>
+                <td>Exhaustion, Sanity, Physical Pain, Lifespan.</td>
+            </tr>
+
+            <tr>
+                <td><b>Limits</b></td>
+                <td>What the power cannot do.</td>
+                <td>Cannot bring back the dead, cannot work in water.</td>
+            </tr>
+        </table>
+
     </body>
 </html>
