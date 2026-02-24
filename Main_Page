@@ -173,5 +173,31 @@
 
         </ul>
 
+        <!--Fourth Section-->
+
+        <h2 id="section4">4. Sanderson's Laws of Magic</h2>
+        <p>Author Brandon Sanderson, a master of power systems,
+            famously coined three laws for writers: </p>
+
+        <ol>
+            <li>
+                <p><b>An author's ability to solve problems
+                    with magic is DIRECTLY PROPORTIONAL to how
+                    well the reader understands said magic.</b></p>
+            </li>
+
+            <li>
+                <p><b>Weaknesses are more interesting than
+                    powers. </b>(e.g., Superman is interesting
+                    because of Kryptonite, not just because he's
+                    strong).</p>
+            </li>
+
+            <li>
+                <p><b>Expand what you already have before you
+                    add something new.</b></p>
+            </li>
+        </ol>
+
     </body>
 </html>
