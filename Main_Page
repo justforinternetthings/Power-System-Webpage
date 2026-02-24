@@ -126,5 +126,52 @@
             </tr>
         </table>
 
+        <!--Third Section-->
+
+        <h2 id="section3">3. Iconic Examples in Media</h2>
+        <p>Different genres handle power systems in unique ways:</p>
+
+        <ul>
+            <li>
+                <p><b>Nen (<a href="https://en.wikipedia.org/wiki/Hunter_%C3%97_Hunter"
+                    target="_blank" title="Wikipedia">Hunter x Hunter</a>):</b>
+                    Often cited as one of the most complex
+                    "Hard" systems. It uses a character's life
+                    energy and relies heavily on "Vows and
+                    Restrictions"—the more dangerous a
+                    restriction a user places on themselves,
+                    the stronger their power becomes.</p>
+            </li>
+
+            <img src="nen.jpg" alt="Nen power system" width="500">
+            <img src="hunterxhunter.jpg" alt="Hunter X Hunter">
+
+            <li>
+                <p><b>The Force (<a href="https://en.wikipedia.org/wiki/Star_Wars"
+                    target="_blank" title="Wikipedia">Star Wars</a>):</b>
+                    Originally a soft system (a mystical energy
+                    field), it leaned toward a hard system with
+                    the introduction of Midichlorians and
+                    specific training techniques.</p>
+            </li>
+
+            <img src="the_force.jpg" alt="The Force power system" width="400">
+            <img src="star_wars.jpg" alt="Star Wars" width="267">
+
+            <li>
+                <p><b>Stand Abilities (<a href="https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure"
+                    target="_blank" title="Wikipedia">JoJo's Bizarre Adventure</a>):</b>
+                    A system based on specific "rules" for
+                    each user. One character might only be able
+                    to attack if the opponent looks at their
+                    back, while another might control time for
+                    exactly five seconds.</p>
+            </li>
+
+            <img src="stands.jpg" alt="Stands power system" width="500">
+            <img src="jjba.jpg" alt="Jojo's Bizarre Adventure" width="582">
+
+        </ul>
+
     </body>
 </html>
