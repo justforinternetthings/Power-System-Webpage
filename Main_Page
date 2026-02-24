@@ -199,5 +199,15 @@
             </li>
         </ol>
 
+        <!--Fifth Section-->
+
+        <h2 id="section5">Our Other Webpages</h2>
+        <!--<p>Links for the wepages in the same project</p>-->
+        <ul>
+            <li><a href="HardPowerSystem.html">Hard Power System</a></li>
+            <br>
+            <li><a href="SoftPowerSystem.html">Soft Power System</a></li>  
+        </ul>
+
     </body>
 </html>
