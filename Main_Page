@@ -4,6 +4,24 @@
         <title>Power System Webpage: Main Page</title>
     </head>
     <body>
-        <h1>Power System In Fiction</h1>
+        <h1 id="section0" align="center">Power System In Fiction</h1>
+
+        <!--Zeroth Section-->
+
+        <h2>What is a power system?</h2>
+        <p align="left" style="font-size: 20px;">In fiction, a
+        power system is the set of rules,
+        limitations, and mechanics that
+        govern how characters use supernatural
+        or extraordinary abilities. It is the
+        "physics" of the impossible within a story's
+        universe.</p>
+
+        <p>A well-constructed power system prevents
+            the plot from feeling like a series of
+            convenient miracles. Instead, it creates
+            tension because the audience understands
+            exactly what a character can and cannot
+            do.</p>
     </body>
 </html>
