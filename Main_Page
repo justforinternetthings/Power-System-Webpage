@@ -23,5 +23,48 @@
             tension because the audience understands
             exactly what a character can and cannot
             do.</p>
+
+        <!--First Section-->
+
+        <h2 id="section1">1. Hard vs. Soft Power Systems</h2>
+
+        <p>The most common way to categorize these
+            systems is by how clearly the rules are
+            defined for the audience.</p>
+
+        <ul>
+        <li><p><b>Hard Power Systems:</b> These have strict,
+            explicit rules. The reader knows the cost,
+            the source, and the limits of the power.
+            This allows for logical problem-solving.</p>
+        </li>
+
+            <ul>
+            <li><P>Example: Fullmetal Alchemist's Alchemy.
+            It follows the Law of Equivalent Exchange:
+            to gain something, something of equal
+            value must be lost.</P>
+            </li>
+            </ul>
+
+            <img src="image1.jpg" alt="IMAGE 1" width="500" height="">
+
+        <li><p><b>Soft Power Systems:</b> These are mysterious and
+            vague. The rules aren't fully explained, which
+            preserves a sense of wonder or dread.</p>
+        </li>
+
+            <ul>
+            <li><p>Example: The Lord of the Rings. We know
+            Gandalf is powerful, but we don't know
+            the exact "MP cost" or limit of his spells.
+            </p>
+            </li>
+            </ul>
+
+            <img src="image2.jpg" alt="IMAGE 1" width="500" height="">
+
+        </ul>
+
     </body>
 </html>
