@@ -209,5 +209,20 @@
             <li><a href="SoftPowerSystem.html">Soft Power System</a></li>  
         </ul>
 
+        <!--Sixth Section-->
+
+        <h2 id="section6">Navigation Section</h2>
+        <!--<p>Links for the sections in this page</p>-->
+        <ul>
+            <li><a href="#section0">Power System in Fiction</a></li>
+            <li><a href="#section1">Hard vs Soft Power System</a></li>        
+            <li><a href="#section2">Core Componenets of Power System</a></li>
+            <li><a href="#section3">Iconic Examples in Media</a></li>
+            <li><a href="#section4">Sanderson's Laws of Magic</a></li>
+            <li><a href="#section5">Our Other Webpages</a></li>
+            <li><a href="#section6">Navigation Section</a></li>
+            <li><a href="#section7">Know More About Us</a></li>
+        </ul>
+
     </body>
 </html>
