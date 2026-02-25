@@ -46,6 +46,15 @@
             padding: 20px;
         }
 
+        section {
+            width: 85%;
+        }
+
+        aside {
+            width: 30%;
+            background-color: none;
+            padding: 15px;
+        }
 
         p {
             font-size: 22px;
@@ -275,9 +284,18 @@
                         add something new.</b></p>
                 </li>
             </ol>
-        </section>
-    </main>
 
+            <hr align="left" width="1000">
+        </section>
+
+        <aside>
+            <h3>Also Checkout...</h3>
+            <!--<p>Links for the wepages in the same project</p>-->
+            <a href="HardPowerSystem.html">Hard Power System</a>
+            <br>
+            <a href="SoftPowerSystem.html">Soft Power System</a>
+        </aside>
+    </main>
 
     <footer id="footer">
     <hr align="left" width="">
@@ -291,11 +309,7 @@
     <a href="practicePDF.pdf" download>Download Page</a>
     <br>
 
-    <h3>Our Other Webpages</h3>
-    <!--<p>Links for the wepages in the same project</p>-->
-    <a href="HardPowerSystem.html">Hard Power System</a>
-    <br>
-    <a href="SoftPowerSystem.html">Soft Power System</a>
+    
 
     <h3>Explore more</h3>
     <a href="https://en.wikipedia.org/wiki/Squirrel"><img src="logo.jpg" width="200" alt="Logo"></a>
