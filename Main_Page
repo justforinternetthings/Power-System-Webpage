@@ -3,6 +3,37 @@
 <head>
     <title>Power System Webpage: Main Page</title>
     <style>
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+            margin: 200;
+        }
+
+        header, footer {
+            background-color: darkred;
+            color: burlywood;
+            text-align: center;
+            font-size: larger;
+            padding: 30px;
+        }
+
+        nav {
+            background-color:burlywood;
+            color: brown;
+            padding: 10px;
+        }
+
+        nav a {
+            color:brown;
+            margin: 10px;
+            text-decoration: none;
+        }
+
+        main {
+            display: flexbox;
+            padding: 20px;
+        }
+
+
         p {
             font-size: 22px;
         }
@@ -33,7 +64,7 @@
     </header>
 
     <nav>
-    <h2>Navigation Section</h2>
+    <h2>Contents</h2>
     <!--<p>Links for the sections in this page</p>-->
     <ul>
         <li><a href="#header">Home</a></li>
@@ -252,8 +283,6 @@
     <a href="HardPowerSystem.html">Hard Power System</a>
     <br>
     <a href="SoftPowerSystem.html">Soft Power System</a>
-
-    <hr align="left" width="600">
 
     <h3>Explore more</h3>
     <a href="https://en.wikipedia.org/wiki/Squirrel"><img src="logo.jpg" width="200" alt="Logo"></a>
