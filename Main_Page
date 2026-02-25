@@ -4,6 +4,7 @@
     <title>Power System Webpage: Main Page</title>
     <style>
         body {
+            background-color: burlywood;
             font-family: Arial, Helvetica, sans-serif;
             margin: 200;
         }
@@ -51,9 +52,19 @@
         }
 
         aside {
+            color: brown;
             width: 30%;
             background-color: none;
             padding: 15px;
+        }
+
+        aside a {
+            color: brown;
+            text-decoration: none;
+        }
+
+        aside a:hover {
+            text-decoration: underline;
         }
 
         p {
@@ -64,6 +75,9 @@
         }
         h2 {
             font-size: 35px;
+        }
+        h3 {
+            font-size: 30px;
         }
         table {
             width: 800px;
@@ -308,8 +322,6 @@
     <br>
     <a href="practicePDF.pdf" download>Download Page</a>
     <br>
-
-    
 
     <h3>Explore more</h3>
     <a href="https://en.wikipedia.org/wiki/Squirrel"><img src="logo.jpg" width="200" alt="Logo"></a>
