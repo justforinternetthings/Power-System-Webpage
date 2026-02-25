@@ -207,17 +207,7 @@
         </ol>
 
         <hr align="left" width="1000">
-        <!--Fifth Section-->
-
-        <h2 id="section5">Our Other Webpages</h2>
-        <!--<p>Links for the wepages in the same project</p>-->
-        <ul>
-            <li><a href="HardPowerSystem.html">Hard Power System</a></li>
-            <br>
-            <li><a href="SoftPowerSystem.html">Soft Power System</a></li>  
-        </ul>
-
-        <hr align="left" width="1000">
+        
         <!--Sixth Section-->
 
         <h2 id="section6">Navigation Section</h2>
@@ -235,10 +225,11 @@
 
         <hr align="left" width="1000">
 
-        <!--Seventh Section-->
+        <!--Footer-->
 
-        <footer>
-        <h2 id="section7">Know More About Us</h2>
+        <footer id="footer">
+
+        <h2>Know More About Us</h2>
         <h3>Contact Us</h3>
         <a href="mailto:mohitkumar12202919@gmail.com">Mail Us</a>
         <br>
@@ -246,8 +237,18 @@
         <br>
         <a href="practicePDF.pdf" download>Download Page</a>
         <br>
+
+        <h3>Our Other Webpages</h3>
+        <!--<p>Links for the wepages in the same project</p>-->
+        <a href="HardPowerSystem.html">Hard Power System</a>
+        <br>
+        <a href="SoftPowerSystem.html">Soft Power System</a>
+
+        <hr align="left" width="600">
+
         <h3>Explore more</h3>
         <a href="https://en.wikipedia.org/wiki/Squirrel"><img src="logo.jpg" width="200" alt="Logo"></a>
+        
         </footer>
 
     </body>
