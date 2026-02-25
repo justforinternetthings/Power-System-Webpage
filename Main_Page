@@ -25,14 +25,32 @@
         </style>
     </head>
     <body>
-        <head>
+        <header id="home">
         <h1 id="section0" align="center">Power System In Fiction</h1>
-        </head>
+        <hr width="">
+        </header>
 
-        <hr width="600">
+        <nav id="section6">
+
+        <h2>Navigation Section</h2>
+        <!--<p>Links for the sections in this page</p>-->
+        <ul>
+            <li><a href="header">Home</a></li>
+            <li><a href="#section1">What is a power system?</a></li>
+            <li><a href="#section2">Hard vs Soft Power System</a></li>        
+            <li><a href="#section3">Core Componenets of Power System</a></li>
+            <li><a href="#section4">Iconic Examples in Media</a></li>
+            <li><a href="#section5">Sanderson's Laws of Magic</a></li>
+            <li><a href="footer">About Us</a></li>
+        </ul>
+
+        <hr align="left" width="1000">
+        
+        </nav>
+
         <!--Zeroth Section-->
 
-        <h2>What is a power system?</h2>
+        <h2 id="section1">What is a power system?</h2>
         <p align="left" style="font-size: 22px;">In fiction, a
         power system is the set of rules,
         limitations, and mechanics that
@@ -51,7 +69,7 @@
         <hr align="left" width="1000">    
         <!--First Section-->
 
-        <h2 id="section1">1. Hard vs. Soft Power Systems</h2>
+        <h2 id="section2">1. Hard vs. Soft Power Systems</h2>
 
         <p>The most common way to categorize these
             systems is by how clearly the rules are
@@ -94,7 +112,7 @@
         <hr align="left" width="1000">
         <!--Second Section-->
 
-        <h2 id="section2">2. Core Components of a Power System</h2>
+        <h2 id="section3">2. Core Components of a Power System</h2>
 
         <p>For a system to feel "real" to the
             reader, it usually includes these four elements:</p>
@@ -134,7 +152,7 @@
         <hr align="left" width="1000">
         <!--Third Section-->
 
-        <h2 id="section3">3. Iconic Examples in Media</h2>
+        <h2 id="section4">3. Iconic Examples in Media</h2>
         <p>Different genres handle power systems in unique ways:</p>
 
         <ul>
@@ -182,7 +200,7 @@
         <hr align="left" width="1000">
         <!--Fourth Section-->
 
-        <h2 id="section4">4. Sanderson's Laws of Magic</h2>
+        <h2 id="section5">4. Sanderson's Laws of Magic</h2>
         <p>Author Brandon Sanderson, a master of power systems,
             famously coined three laws for writers: </p>
 
@@ -205,29 +223,11 @@
                     add something new.</b></p>
             </li>
         </ol>
-
-        <hr align="left" width="1000">
         
-        <!--Sixth Section-->
-
-        <h2 id="section6">Navigation Section</h2>
-        <!--<p>Links for the sections in this page</p>-->
-        <ul>
-            <li><a href="#section0">Power System in Fiction</a></li>
-            <li><a href="#section1">Hard vs Soft Power System</a></li>        
-            <li><a href="#section2">Core Componenets of Power System</a></li>
-            <li><a href="#section3">Iconic Examples in Media</a></li>
-            <li><a href="#section4">Sanderson's Laws of Magic</a></li>
-            <li><a href="#section5">Our Other Webpages</a></li>
-            <li><a href="#section6">Navigation Section</a></li>
-            <li><a href="#section7">Know More About Us</a></li>
-        </ul>
-
-        <hr align="left" width="1000">
-
         <!--Footer-->
 
         <footer id="footer">
+        <hr align="left" width="">
 
         <h2>Know More About Us</h2>
         <h3>Contact Us</h3>
