@@ -27,6 +27,7 @@
     <body>
         <h1 id="section0" align="center">Power System In Fiction</h1>
 
+        <hr width="600">
         <!--Zeroth Section-->
 
         <h2>What is a power system?</h2>
@@ -45,6 +46,7 @@
             exactly what a character can and cannot
             do.</p>
 
+        <hr align="left" width="1000">    
         <!--First Section-->
 
         <h2 id="section1">1. Hard vs. Soft Power Systems</h2>
@@ -87,6 +89,7 @@
 
         </ul>
 
+        <hr align="left" width="1000">
         <!--Second Section-->
 
         <h2 id="section2">2. Core Components of a Power System</h2>
@@ -126,6 +129,7 @@
             </tr>
         </table>
 
+        <hr align="left" width="1000">
         <!--Third Section-->
 
         <h2 id="section3">3. Iconic Examples in Media</h2>
@@ -173,6 +177,7 @@
 
         </ul>
 
+        <hr align="left" width="1000">
         <!--Fourth Section-->
 
         <h2 id="section4">4. Sanderson's Laws of Magic</h2>
@@ -199,6 +204,7 @@
             </li>
         </ol>
 
+        <hr align="left" width="1000">
         <!--Fifth Section-->
 
         <h2 id="section5">Our Other Webpages</h2>
@@ -209,6 +215,7 @@
             <li><a href="SoftPowerSystem.html">Soft Power System</a></li>  
         </ul>
 
+        <hr align="left" width="1000">
         <!--Sixth Section-->
 
         <h2 id="section6">Navigation Section</h2>
@@ -224,6 +231,7 @@
             <li><a href="#section7">Know More About Us</a></li>
         </ul>
 
+        <hr align="left" width="1000">
         <!--Seventh Section-->
 
         <h2 id="section7">Know More About Us</h2>
