@@ -5,11 +5,33 @@
     <style>
         body {
             font-family: sans-serif;
-            background-color: antiquewhite;
+            background-color: #f4f4f4;
         }
 
         .form-container {
+            width: 500px;
+            margin: 50px auto;
+            padding: 35px;
+            background-color: white;
+            border: 1px solid #ccc;
+        }
 
+        input, select, textarea{
+            width: 100%;
+            margin: 8px 0;
+            padding: 8px;
+        }
+
+        button {
+            width: 100%;
+            background-color: #333;
+            border: none;
+            color: white;
+            padding: 10px;
+        }
+
+        button:hover {
+            background-color: #555;
         }
     </style>
 </head>
@@ -30,8 +52,14 @@
             <input type="password" name="password" required>
 
             <label>Gender</label>
+
+            <label class="radio-group">
             <input type="radio" name="gender" value="male"> Male
+            </label>
+
+            <label class="radio-group">
             <input type="radio" name="gender" value="female"> Female
+            </label>
 
             <br><br>
             <label>Course</label>
