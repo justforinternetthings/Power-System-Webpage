@@ -89,14 +89,20 @@
             padding: 10px;
             border: 2px solid black;
         }
+        hr {
+            height: 5px;
+            background-color: crimson;
+            border: none;
+            margin-left: 0;
+        }
     </style>
 </head>
 
 <body>
 
     <header id="header">
-    <h1 align="center">Power System In Fiction</h1>
-    <hr width="">
+    <h1>Power System In Fiction</h1>
+    <hr style="width: 50%">
     </header>
 
     <nav>
@@ -111,7 +117,7 @@
         <li><a href="#section5">Sanderson's Laws of Magic</a></li>
         <li><a href="#footer">About Us</a></li>
     </ul>
-    <hr align="left" width="1000">
+    <hr style="width: 100%;"> 
     </nav>
 
     <main>
@@ -133,7 +139,7 @@
                 exactly what a character can and cannot
                 do.</p>
 
-            <hr align="left" width="1000">    
+            <hr style="width: 80%; margin-left: 0;">    
         </section>
 
         <!--Second Section-->
@@ -178,7 +184,7 @@
 
             </ul>
 
-            <hr align="left" width="1000">
+            <hr style="width: 80%; margin-left: 0;"> 
         </section>
 
         <!--Third Section-->
@@ -220,7 +226,7 @@
                 </tr>
             </table>
 
-            <hr align="left" width="1000">
+            <hr style="width: 80%; margin-left: 0;"> 
         </section>
 
         <!--Fourth Section-->
@@ -270,7 +276,7 @@
 
             </ul>
 
-            <hr align="left" width="1000">
+            <hr style="width: 80%; margin-left: 0;"> 
         </section>
 
         <!--Fifth Section-->
@@ -299,7 +305,7 @@
                 </li>
             </ol>
 
-            <hr align="left" width="1000">
+            <hr style="width: 100%; margin-left: 0;"> 
         </section>
 
         <aside>
@@ -312,7 +318,7 @@
     </main>
 
     <footer id="footer">
-    <hr align="left" width="">
+    <hr style="width: 100%; margin-left: 0;"> 
 
     <h2>Know More About Us</h2>
     <h3>Contact Us</h3>
@@ -322,7 +328,6 @@
     <br>
     <a href="practicePDF.pdf" download>Download Page</a>
     <br>
-
     <h3>Explore more</h3>
     <a href="https://en.wikipedia.org/wiki/Squirrel"><img src="logo.jpg" width="200" alt="Logo"></a>
     
