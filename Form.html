@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Form Webpage</title>
+    <style>
+        body {
+            font-family: sans-serif;
+            background-color: antiquewhite;
+        }
+
+        .form-container {
+
+        }
+    </style>
+</head>
+
+<body>
+    <div class="form-container">
+        <h2>Registration Form</h2>
+
+        <form action="#" method="post">
+
+            <label>Full Name</label>
+            <input type="text" name="fullname" required>
+
+            <label>Email</label>
+            <input type="email" name="email" required>
+
+            <label>Password</label>
+            <input type="password" name="password" required>
+
+            <label>Gender</label>
+            <input type="radio" name="gender" value="male"> Male
+            <input type="radio" name="gender" value="female"> Female
+
+            <br><br>
+            <label>Course</label>
+            <select name="course">
+                <option>BCA</option>
+                <option>BSc</option>
+                <option>BCom</option>
+            </select>
+
+            <label>Address</label>
+            <textarea name="address"></textarea>
+
+            <button type="submit">Register</button>
+
+        </form>
+    </div>
+
+</body>
+</html>
