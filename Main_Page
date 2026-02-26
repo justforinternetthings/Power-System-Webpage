@@ -124,7 +124,7 @@
         <!--First Section-->
         <section id="section1">
             <h2>What is a power system?</h2>
-            <p align="left" style="font-size: 22px;">In fiction, a
+            <p>In fiction, a
             power system is the set of rules,
             limitations, and mechanics that
             govern how characters use supernatural
@@ -194,7 +194,7 @@
             <p>For a system to feel "real" to the
                 reader, it usually includes these four elements:</p>
 
-            <table border="1">
+            <table>
                 <tr>
                     <th>Component</th>
                     <th>Description</th>
@@ -318,7 +318,7 @@
     </main>
 
     <footer id="footer">
-    <hr style="width: 100%; margin-left: 0;"> 
+    <hr style="width: 100%; margin-left: 0;">
 
     <h2>Know More About Us</h2>
     <h3>Contact Us</h3>
