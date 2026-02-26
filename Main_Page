@@ -177,7 +177,7 @@
                 </li>
                 </ul>
 
-                <img src="image1.jpg" alt="IMAGE 1" width="500" height="">
+                <img src="Images/image1.jpg" alt="Image 1" width="500" height="">
 
             <li><p><b>Soft Power Systems:</b> These are mysterious and
                 vague. The rules aren't fully explained, which
@@ -192,7 +192,7 @@
                 </li>
                 </ul>
 
-                <img src="image2.jpg" alt="IMAGE 1" width="500" height="">
+                <img src="Images/image2.jpg" alt="Image 2" width="500" height="">
 
             </ul>
 
@@ -258,8 +258,8 @@
                         the stronger their power becomes.</p>
                 </li>
 
-                <img src="nen.jpg" alt="Nen power system" width="500">
-                <img src="hunterxhunter.jpg" alt="Hunter X Hunter">
+                <img src="Images/nen.jpg" alt="Nen power system" width="500">
+                <img src="Images/hunterxhunter.jpg" alt="Hunter X Hunter">
 
                 <li>
                     <p><b>The Force (<a href="https://en.wikipedia.org/wiki/Star_Wars"
@@ -270,8 +270,8 @@
                         specific training techniques.</p>
                 </li>
 
-                <img src="the_force.jpg" alt="The Force power system" width="400">
-                <img src="star_wars.jpg" alt="Star Wars" width="267">
+                <img src="Images/the_force.jpg" alt="The Force power system" width="400">
+                <img src="Images/star_wars.jpg" alt="Star Wars" width="267">
 
                 <li>
                     <p><b>Stand Abilities (<a href="https://en.wikipedia.org/wiki/JoJo%27s_Bizarre_Adventure"
@@ -283,8 +283,8 @@
                         exactly five seconds.</p>
                 </li>
 
-                <img src="stands.jpg" alt="Stands power system" width="500">
-                <img src="jjba.jpg" alt="Jojo's Bizarre Adventure" width="582">
+                <img src="Images/stands.jpg" alt="Stands power system" width="500">
+                <img src="Images/jjba.jpg" alt="Jojo's Bizarre Adventure" width="582">
 
             </ul>
 
@@ -344,7 +344,7 @@
             <a href="practicePDF.pdf" download>Download Page</a>
             <br>
             <h3>Explore more</h3>
-            <a href="https://en.wikipedia.org/wiki/Squirrel"><img src="logo.jpg" width="200" alt="Logo"></a>
+            <a href="https://en.wikipedia.org/wiki/Squirrel"><img src="Images/logo.jpg" width="200" alt="Logo"></a>
         </div>
     </footer>
 
