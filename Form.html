@@ -14,7 +14,7 @@
             max-width: 500px;
             
             background-color: white;
-            background: url(Images/form-background.jpg) left;
+            background: url(Images/form-background.png) left;
             background-size: cover;
 
             border: 2px solid black;
@@ -26,23 +26,18 @@
             box-shadow: 5px 5px 10px grey;
         }
 
-        .position-fixed-group {
+        .icon-box {
             position: fixed;
-            top: 0;
-            left: 0;
+            bottom: 20px;
+            right: 20px;
+        }
 
-            display: block;
-
-            box-sizing: border-box;
-            max-width: 200px;
-            height: 200px;
-            background-color: crimson;
-            border: 2px solid black;
-            text-align: center;
-
-            margin: 50px auto;
-            padding: 25px;
-            
+        .icons {
+            display: inline;
+        }
+        .icons img {
+            width: 40px; 
+            height: 40px;
         }
 
         input, select, textarea{
@@ -154,9 +149,18 @@
         </form>
     </div>
 
-    <div class="position-fixed-group">
-        <a href><img src="Images/whatsapp_icon.png" alt="Whatsapp Icon"></a>
+    <div class="icon-box">
+        <div class="icons">
+            <a href="https://web.whatsapp.com/" target="_blank"><img src="Images/whatsapp_icon.png" alt="Whatsapp Icon"></a>
+        </div>
 
+        <div class="icons">
+            <a href="https://www.instagram.com/" target="_blank"><img src="Images/instagram_icon.png" alt="Instagram Icon"></a>
+        </div>
+
+        <div class="icons">
+            <a href="https://x.com/" target="_blank"><img src="Images/x_icon.png" alt="X Icon"></a>
+        </div>
     </div>
 
 </body>
