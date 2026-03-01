@@ -28,6 +28,7 @@
             background-size: cover;
 
             border: 2px solid black;
+            border-radius: 12px;
 
             margin: 50px auto;
 
@@ -54,6 +55,10 @@
             margin: 8px 0;
             padding: 8px;
         }
+        input:focus {
+            border: 1px solid green;
+        }
+
         button {
             width: 100%;
             background-color: #333;
@@ -64,6 +69,11 @@
         button:hover {
             background-color: #555;
         }
+        button:active {
+            color: black;
+            background-color: grey;
+        }
+
         .inline-group {
             display: flex;
             align-items: center;
