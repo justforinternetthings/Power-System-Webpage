@@ -6,7 +6,7 @@
         body {
             font-family: sans-serif;
             background-color: #f4f4f4;
-            
+            perspective: 900px;
         }
 
         header {
@@ -20,6 +20,8 @@
         }
 
         .form-container {
+            transition: all 0.5s;
+
             display: block;
             max-width: 500px;
             
@@ -35,6 +37,18 @@
             padding: 35px;
 
             box-shadow: 5px 5px 10px grey;
+
+            animation: colorChange 1.5s;
+        }
+
+        @keyframes colorChange { 
+            0% {color: white;}
+            50% {color: grey;}
+            100% {color: black;}
+            
+        }
+        .form-container:hover {
+            transform: scale(1.02);
         }
 
         .icon-box {
@@ -65,9 +79,12 @@
             border: none;
             color: white;
             padding: 10px;
+
+            transition: all 0.5s ease;
         }
         button:hover {
-            background-color: #555;
+            background-color: black;
+            transform: scale(1.02);
         }
         button:active {
             color: black;
